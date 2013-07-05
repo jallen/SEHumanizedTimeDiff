@@ -8,8 +8,8 @@
 
 #import "NSDate+HumanizedTime.h"
 
-#define LOCALISABLE_FULL @"Localizable_full"
-#define LOCALISABLE_SHORT @"Localizable"
+#define LOCALISABLE_FULL @"SEHumanizedTimeLocalizable_full"
+#define LOCALISABLE_SHORT @"SEHumanizedTimeLocalizable"
 #define SUFFIX_UNTIL @"Until the "
 #define PREFIX_LEFT @" left"
 #define PREFIX_AGO  @" ago"
